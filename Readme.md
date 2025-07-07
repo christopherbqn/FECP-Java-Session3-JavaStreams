@@ -1,5 +1,7 @@
 ### Quiz 1 Java Streams: Basic Functional Programming
 
+Submitted by: Christopher Gilbert Bayquen | July 7, 2025
+
 This repository holds my submission for our Quiz 1 in our Java Fundamental Sessions. In this repository we were tasked to accomplish 5 activities revolving around Java Streams: 
 1. Filter Odd Numbers
 2. Filter Strings Starting with 'A'
